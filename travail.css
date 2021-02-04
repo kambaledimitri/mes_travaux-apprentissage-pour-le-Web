@@ -1,0 +1,126 @@
+#ban1{
+	height: 500px;
+}
+#ban2{
+	height: 500px;
+}
+.banner1,.banner2{
+	display: flex;
+	flex-wrap: nowrap;
+}
+.banner2{
+	margin-top: 50px;
+}
+#cf{
+	margin-top: 100px;
+}
+.ban0{
+	margin-top: 150px;
+}
+.ban0 b{
+	font-size: 33px;
+	font-family: 'Roboto', sans-serif;
+}
+#ban11{
+	height: 500px;
+}
+.ban20{
+	margin-top: 150px;
+}
+.ban20 b{
+	 font-size: 33px;
+	 font-family: 'Roboto', sans-serif;
+}
+#ban21{
+	height: 500px;
+}
+.banner3{
+	display: flex;
+	flex-wrap: wrap;
+	margin-top :50px;
+}
+#ban31 b{
+	font-size: 33px;
+	font-family: 'Roboto', sans-serif;
+}
+#ban31{
+	height: 200px;
+	text-align: center;
+}
+#ban32{
+	height: 400px;
+	text-align: center;
+}
+.img1{
+	width: 100%;
+	height: 500px;
+}
+.ban320 b{
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+
+}
+.ban330 b{
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+
+}
+#ban34{
+	text-align: center;
+}
+.ban340 b{
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+
+}
+.ban320,.ban340,.ban330{
+	text-align: center;
+}
+#banner4{
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #D7ECFF;
+	margin-top :50px;
+	text-align: center;
+	justify-content: center;
+}
+#ban41,#ban42,#ban43{
+	height: 400px;
+	width: 33.3%
+
+}
+#ban42{
+	text-align: center;
+
+	
+}
+.ban420 b{
+	font-size: 28px;
+	font-family: 'Roboto', sans-serif;
+}
+.ban420{
+	background-color: #F1ECFF;
+	margin-top: 150px;
+}
+.ban44{
+	width: 100%;
+	height: 150px;
+	text-align: center;
+}
+ul,li{
+	display: inline-block;
+	text-align: center;
+	margin-left: 15px;
+}
+#ban45{
+	text-align: center;
+	height: 100px;
+}
+#combo{
+	width: 150px;
+	height: 40px;
+}
+#btn{
+	background-color: #6C8DA1;
+}
+/*font-family: 'Roboto', sans-serif;
